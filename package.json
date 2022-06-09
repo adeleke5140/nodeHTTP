@@ -1,0 +1,8 @@
+{
+  "name": "nodeHTTP",
+  "version": "1.0.0",
+  "description": "http request using node",
+  "main": "index.js",
+  "author": "adeleke5140",
+  "license": "MIT"
+}
